@@ -1,0 +1,12 @@
+{"source_directory" : "D:\\Richard\\X-Script-explanation\\Files",
+ "target_directory" : "D:\\Richard\\X-Script-explanation\\Output",
+ "component_separator" : "_",
+ "num_components" : 4,
+ "extension_filter" : [ "jpg" ],
+ "target_file_syntax" : "L&P\\L_P_$(comp1)_$(comp2)\\$(ext)\\L_P_$(comp1)_$(comp2)_$(comp3).$(ext)",
+ "target_file_structure_fname" : "target_file_structure.json",
+ "evaluate" : true,
+ "copy_rename" : true,
+ "action" : "copy",
+ "num_files_line" : 5 
+}
